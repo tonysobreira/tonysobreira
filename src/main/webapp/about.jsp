@@ -11,24 +11,15 @@
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-<title>My Projects</title>
-
+<title>About</title>
 </head>
 
 <body>
 	<jsp:include page="navbar.jsp" />
 
-	<p>
-	<label>Struts 1:</label>
-		<br/>
-		 <a href="https://github.com/tonysobreira/struts1practice/">GitHub</a>
-		 <br/>
-		<a href="https://struts1practice.herokuapp.com/">Practice
-			Application</a>
-	</p>
-
-
+	<a href="https://www.linkedin.com/in/tony-sobreira-612974a9/">Linkedin</a>
+	<br />
+	<a href="https://github.com/tonysobreira?tab=repositories">GitHub</a>
 
 </body>
 </html>

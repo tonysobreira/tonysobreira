@@ -10,7 +10,7 @@
 			</button>
 			<a class="navbar-brand" href="index.jsp">Home</a> <a
 				class="navbar-brand" href="projects.jsp">Projects</a> <a
-				class="navbar-brand" href="">About</a>
+				class="navbar-brand" href="about.jsp">About</a>
 
 		</div>
 	</div>
