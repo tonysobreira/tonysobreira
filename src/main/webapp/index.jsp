@@ -16,6 +16,14 @@
 <body>
 
 <jsp:include page="navbar.jsp" />
+	
+	<img src="http://www.pixelstalk.net/wp-content/uploads/2016/06/Yugioh-Wallpapers-HD.jpg" alt="YuGiOh" height="320" width="240">
+	
+	<p style="color:red">Parabéns você descobriu o easter egg secreto !</p>
+	
+	<p>Vá até mim e fale a seguinte frase: "Java é a melhor linguagem de programação do mundo." para ganhar um prêmio surpresa</p>
+	
+	<p>Obs.: O botão abaixo não faz nada...</p>
 
 <button class="btn btn-default" type="submit">Button</button>
 
