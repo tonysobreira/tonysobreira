@@ -16,7 +16,7 @@
 
 <jsp:include page="navbar.jsp" />
 	
-	<img src="http://www.pixelstalk.net/wp-content/uploads/2016/06/Yugioh-Wallpapers-HD.jpg" alt="YuGiOh" height="1024" width="768">
+	<img src="http://www.pixelstalk.net/wp-content/uploads/2016/06/Yugioh-Wallpapers-HD.jpg" alt="YuGiOh" height="576" width="1024">
 	
 	<p style="color:red">Parabéns você descobriu o easter egg secreto !</p>
 	
