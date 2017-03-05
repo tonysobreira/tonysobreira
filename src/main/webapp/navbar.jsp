@@ -8,8 +8,8 @@
 					class="icon-bar"></span> <span class="icon-bar"></span> <span
 					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="/project/index.jsp">Home</a> <a
-				class="navbar-brand" href="/project/projects.jsp">Projects</a> <a
+			<a class="navbar-brand" href="index.jsp">Home</a> <a
+				class="navbar-brand" href="projects.jsp">Projects</a> <a
 				class="navbar-brand" href="">About</a>
 
 		</div>
