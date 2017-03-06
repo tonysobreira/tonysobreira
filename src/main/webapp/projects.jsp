@@ -27,6 +27,15 @@
 		<a href="https://struts1practice.herokuapp.com/">Practice
 			Application</a>
 	</p>
+	
+	<p>
+	<label>JSF + Hibernate + Primefaces + Postgres:</label>
+		<br/>
+		 <a href="https://github.com/tonysobreira/jsfhibernateprimefacespractice/">GitHub</a>
+		 <br/>
+		<a href="https://jsfhibprimfacespractice.herokuapp.com/">Practice
+			Application</a>
+	</p>
 
 
 
