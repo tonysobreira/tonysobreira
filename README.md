@@ -12,8 +12,11 @@ https://struts1practice.herokuapp.com/
 
 https://github.com/tonysobreira/struts1practice/
 
+JSF + Hibernate + Primefaces + Postgres
 
+https://jsfhibprimfacespractice.herokuapp.com/
 
+https://github.com/tonysobreira/jsfhibernateprimefacespractice/
 
 
 references:
