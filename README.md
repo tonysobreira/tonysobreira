@@ -8,9 +8,9 @@ Projects:
 
 Struts 1:
 
-https://struts1practice.herokuapp.com/
+https://struts1project.herokuapp.com/
 
-https://github.com/tonysobreira/struts1practice/
+https://github.com/tonysobreira/struts1project
 
 JSF + Hibernate + Primefaces + Postgres
 
