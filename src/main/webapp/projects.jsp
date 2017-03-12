@@ -22,9 +22,9 @@
 	<p>
 	<label>Struts 1:</label>
 		<br/>
-		 <a href="https://github.com/tonysobreira/struts1practice/">GitHub</a>
+		 <a href="https://github.com/tonysobreira/struts1project">GitHub</a>
 		 <br/>
-		<a href="https://struts1practice.herokuapp.com/">Practice
+		<a href="https://struts1project.herokuapp.com/">Practice
 			Application</a>
 	</p>
 	
