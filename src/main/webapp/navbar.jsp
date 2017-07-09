@@ -11,7 +11,6 @@
 			<a class="navbar-brand" href="index.jsp">Home</a> 
 			<a class="navbar-brand" href="projects.jsp">Projects</a> 
 			<a class="navbar-brand" href="about.jsp">About</a>
-			<a class="navbar-brand" href="lagnoidweb/lagnoid.html">Lagnoid</a>
 		</div>
 	</div>
 </nav>
