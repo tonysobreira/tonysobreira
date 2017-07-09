@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "lagnoidweb.data.unityweb",
+"asmCodeUrl": "lagnoidweb.asm.code.unityweb",
+"asmMemoryUrl": "lagnoidweb.asm.memory.unityweb",
+"asmFrameworkUrl": "lagnoidweb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
