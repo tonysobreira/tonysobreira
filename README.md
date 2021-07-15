@@ -48,3 +48,24 @@
 ![Visual Studio
 Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+
+
+
+
+<details open>
+    <summary>⚙ <b>GitHub Analytics</b>: </summary>
+    <br>
+    <p align="center">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tonysobreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tonysobreira&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </p>
+</details>
+
+<br>
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/tonysobreira" target="_blank">
+        <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=a" alt="Buy Me A Coffee" width="173em">
+    </a>
+</p>
