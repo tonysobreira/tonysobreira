@@ -69,3 +69,8 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&log
         <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=a" alt="Buy Me A Coffee" width="173em">
     </a>
 </p>
+
+
+![Kamila's github stats](https://github-readme-stats.vercel.app/api?username=tonysobreira&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonysobreira&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
