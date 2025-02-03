@@ -1,76 +1,20 @@
-# Hi, I am Tony Sobreira :computer:
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tonysobreira&label=Profile%20views&color=0e75b6&style=flat" alt="tonysobreira" />
-</p>
+I'm Tony Sobreira, software developer. </br>
+10+ years of experience.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tonysobreira&theme=dracula" />
-</p>
+# 💻 Tech Stack
 
-<p align="center">
-  <a href="https://github.com/tonysobreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonysobreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonysobreira&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tonysobreira" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://instagram.com/tonysobreira" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</p>
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-
-- 🌐 &nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
-- 🛢 &nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-333333?style=flat&logo=MicrosoftSQLServer)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-
-- ⚙️ &nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-- 🔧 &nbsp;
-![Visual Studio
-Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Java](https://img.shields.io/badge/Java-%2335495e.svg?style=for-the-badge&logo=java&logoColor=%234FC08D) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-1867C0?style=for-the-badge&logo=angular&logoColor=AEDDFF) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 
+# 🌐 Socials:
 
-
-
-<details open>
-    <summary>⚙ <b>GitHub Analytics</b>: </summary>
-    <br>
-    <p align="center">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tonysobreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tonysobreira&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </p>
-</details>
-
-<br>
-
-<p align="center">
-    <a href="https://www.buymeacoffee.com/tonysobreira" target="_blank">
-        <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=a" alt="Buy Me A Coffee" width="173em">
-    </a>
-</p>
-
-
-![Kamila's github stats](https://github-readme-stats.vercel.app/api?username=tonysobreira&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonysobreira&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonysobreira) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tonysobreira) 
